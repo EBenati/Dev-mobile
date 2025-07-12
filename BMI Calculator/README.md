@@ -4,6 +4,6 @@
 - Calculate BMI based on height and weight.
 - Show informations about results.
 
-#### Tecnologies involded:
+#### Tecnologies involved:
 - Android Studio.
 - Java.
