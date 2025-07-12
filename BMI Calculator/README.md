@@ -6,4 +6,4 @@
 
 #### Tecnologies involded:
 - Android Studio.
-- Linguagem Java.
+- Java.
